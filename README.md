@@ -1,7 +1,7 @@
 # macOS 15 - the new Siri UI
 Enable the new Siri UI on macOS Sequoia 15.
 
-<p><kbd><img src="files/thenewsiriui.png"></kbd></p>
+<p><kbd><img src="files/thenewsiriui.png" height="auto" width="auto"></kbd></p>
 
 ## How to enable or disable
 ### Enabling
