@@ -1,7 +1,7 @@
 # macOS 15 - the new Siri UI
 
 > [!WARNING]
-> Does not work on macOS Sequoia 15.0 beta 2 (24A5279h)
+> Does not work on macOS Sequoia 15.0 beta 2 (24A5279h) | issue [#1](https://github.com/jacobnicked/macOS-15-the-new-Siri-UI/issues/1)
 <hr>
 
 Enable the new Siri UI on macOS Sequoia 15.
